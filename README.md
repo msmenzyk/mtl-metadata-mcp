@@ -1,8 +1,7 @@
 # mtl-metadata-mcp
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![CI](https://github.com/musictechlab/mtl-metadata-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/musictechlab/mtl-metadata-mcp/actions/workflows/ci.yml)
-[![Built by MusicTech Lab](https://musictechlab.io/oss/build-by-musictechlab.io.svg)](https://musictechlab.io)
+[![CI](https://github.com/msmenzyk/mtl-metadata-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/msmenzyk/mtl-metadata-mcp/actions/workflows/ci.yml)
 
 MCP server for reading and embedding metadata in audio files (MP3, FLAC, OGG). Built for [Claude Code](https://claude.com/claude-code).
 
@@ -39,7 +38,7 @@ MCP server for reading and embedding metadata in audio files (MP3, FLAC, OGG). B
 ## Setup
 
 ```bash
-git clone https://github.com/musictechlab/mtl-metadata-mcp.git
+git clone https://github.com/msmenzyk/mtl-metadata-mcp.git
 cd mtl-metadata-mcp
 poetry install
 ```
@@ -141,11 +140,11 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 ---
 
 <div align="center">
-  MusicTech Lab - Rockstars Developers dedicated to the Music Industry<br>
-  <a href="https://musictechlab.io">Website</a>
+  Mariusz Smenżyk - Rockstars Developers dedicated to the Music Industry<br>
+  <a href="https://mtl.dev">Website</a>
   <span> | </span>
-  <a href="https://linkedin.com/company/musictechlab">LinkedIn</a>
+  <a href="https://linkedin.com/company/Mariusz Smenżyk">LinkedIn</a>
   <span> | </span>
-  <a href="https://musictechlab.io/contact">Let's talk</a><br>
-  Crafted by <a href="https://musictechlab.io">musictechlab.io</a>
+  <a href="https://mtl.dev/contact">Let's talk</a><br>
+  Crafted by <a href="https://mtl.dev">mtl.dev</a>
 </div>
